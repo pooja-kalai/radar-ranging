@@ -2,7 +2,6 @@
  
 # Aim:
 To calculate the maximum range of a radar system using the Radar Range Equation and verify the results through Python programming.
-
 # Theory:
 The Radar Range Equation is a fundamental formula used in radar system design to determine the maximum range at which a radar can detect a target. It is given by:
 <img width="382" height="383" alt="image" src="https://github.com/user-attachments/assets/dd26abb6-5f06-4dc4-8c06-39eafb67831e" />
